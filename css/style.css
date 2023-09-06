@@ -36,3 +36,12 @@ a {
    text-decoration: none;
    color: azure;
 }
+.bottom-center {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  font-family: "dejavu sans mono", monospace;
+  color: gray;
+}
